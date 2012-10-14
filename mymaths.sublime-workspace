@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"_exte",
+				"_extensions"
+			],
+			[
+				"exte",
+				"extension_id"
+			],
+			[
+				"ex",
+				"extension_path"
+			],
+			[
+				"_get_",
+				"_get_controller_namespace"
+			],
+			[
+				"defa",
+				"default_meta"
+			],
+			[
+				"meta",
+				"meta_path"
+			],
+			[
+				"_exten",
+				"_extension_paths"
+			],
+			[
+				"_ex",
+				"_extension_paths"
+			],
+			[
+				"_Exte",
+				"_extension_meta"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"thumbna",
+				"thumbnail_url"
+			],
+			[
+				"_get_ex",
+				"_get_extension_id"
+			],
+			[
+				"_get_exte",
+				"_get_extension_url"
+			],
+			[
+				"_get_plugin",
+				"_get_plugin_filepath"
+			],
+			[
+				"_get_exten",
+				"_get_extension_path"
+			],
+			[
+				"skin",
+				"skin_id"
+			],
+			[
+				"extension",
+				"extension_id"
+			],
+			[
+				"thumb",
+				"thumbnail"
+			],
+			[
+				"extens",
+				"extension_id"
+			],
+			[
+				"pl",
+				"plugin_extension_paths"
+			],
+			[
+				"coff",
+				"coffeeFilesTmp"
+			],
+			[
+				"shou",
+				"should_enqueue"
+			],
+			[
+				"cure",
+				"current_class"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"current",
+				"current_class"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"register",
+				"register_pages"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"meth",
+				"method_name"
+			],
+			[
+				"_lo",
+				"_load_yaml"
+			],
+			[
+				"coffe",
+				"coffeeFiles"
+			],
+			[
+				"return",
+				"returnCode"
+			],
+			[
+				"coffee",
+				"coffeeFiles"
+			],
+			[
+				"readd",
+				"readdirSync"
+			],
+			[
+				"comp",
+				"compileCoffee"
+			],
+			[
+				"compile",
+				"compileLess"
+			],
+			[
+				"ver",
+				"verbose"
+			],
+			[
+				"verbo",
+				"verboseGreen"
+			],
+			[
+				"read",
+				"readFileSync"
+			],
+			[
+				"new",
+				"new_dir"
+			],
+			[
+				"clean",
+				"cleanUpDirWorker"
+			],
+			[
+				"clea",
+				"cleanUpDirWorker"
+			],
+			[
+				"abs",
+				"absFile"
+			],
+			[
+				"_",
+				"_other_extensions"
+			],
+			[
+				"to",
+				"toCompile"
+			],
+			[
+				"change",
+				"changeDir"
+			],
+			[
+				"build",
+				"build_dir"
+			],
+			[
+				"dist",
+				"distribution"
+			],
+			[
+				"dele",
+				"deleteTmpFolder"
+			],
+			[
+				"copy",
+				"copyLavaFiles"
+			],
+			[
+				"create",
+				"createTmpDir"
+			],
+			[
+				"entit",
+				"entity"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mak",
+				"makeDir"
+			],
+			[
+				"cop",
+				"copyLavaFiles"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"p",
+				"process"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 590,
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		},
+		{
+			"file": "myscript.js",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "background.js",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 453,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "popup.js",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/lofty.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/mymaths/popup.html",
+		"/D/Projects/red/background.js",
+		"/D/Projects/red/manifest.json",
+		"/D/Projects/mymaths/jquery.js",
+		"/C/Users/Daniel/Downloads/popup.html",
+		"/D/Projects/Private-Blog/src/install.yaml",
+		"/D/Projects/Private-Blog/libs/lava/classes/Plugin.php",
+		"/D/Projects/Private-Blog/src/extensions/vendor/extension.php",
+		"/C/Users/Daniel/Documents/My Web Sites/WordPress Dev/wp-content/plugins/private-blog/extensions/vendor/extension.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Base.php",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Setting/Skin.twig",
+		"/D/Projects/Private-Blog/src/skins/default/skin.yaml",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Skin.php",
+		"/D/Projects/Private-Blog/src/skins/default/settings.yaml",
+		"/D/Projects/Private-Blog/premium/skins/default/translation.yaml",
+		"/D/Projects/Private-Blog/libs/lava/classes/Skin.php",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Setting/Default.twig",
+		"/D/Projects/Private-Blog/libs/lava/classes/Page/Extensions.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Extension.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Extension/Controller.php",
+		"/D/Projects/Private-Blog/src/skins/default/templates/login.twig",
+		"/D/Projects/Private-Blog/libs/lava/assets/less/_structure.less",
+		"/D/Projects/Private-Blog/libs/lava/assets/less/_design.less",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Checkbox.php",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Setting/Extension.twig",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Setting/Checkbox.twig",
+		"/D/Projects/Private-Blog/premium/extensions/access_logs/extension.yaml",
+		"/D/Projects/Private-Blog/premium/extensions/multiple_passwords/extension.yaml",
+		"/D/Projects/Private-Blog/premium/extensions/select_pages_to_protect/extension.yaml",
+		"/D/Projects/Private-Blog/libs/lava/assets/less/_mixins.less",
+		"/D/Projects/Private-Blog/libs/lava/classes/Functions.php",
+		"/D/Projects/Private-Blog/src/extensions/vendor/extension.yaml",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Controller.php",
+		"/D/Projects/Private-Blog/premium/extensions/public_rss/extension.yaml",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting.php",
+		"/D/Projects/Private-Blog/libs/lava/assets/less/_base.css",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Setting/Extension.teig",
+		"/D/Projects/Private-Blog/libs/lava/classes/Extension/Vendor.php",
+		"/D/Projects/Private-Blog/src/plugin.yaml",
+		"/D/Projects/Private-Blog/src/settings.yaml",
+		"/D/Projects/Private-Blog/src/admin_pages.yaml",
+		"/D/Projects/Private-Blog/lofty.yaml",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Scene/Iframe.twig",
+		"/D/Projects/Private-Blog/libs/lava/data/trusted_domains.yaml",
+		"/D/Projects/Private-Blog/src/skins/photo/settings.yaml",
+		"/D/Projects/Private-Blog/src/skins/photo/templates/login.twig",
+		"/D/Projects/Private-Blog/src/skins/photo/assets/less/styles.less",
+		"/D/Projects/Private-Blog/src/skins/mainframe/assets/less/styles.less",
+		"/D/Projects/Private-Blog/src/skins/mainframe/templates/login.twig",
+		"/D/Projects/Private-Blog/src/plugin.php",
+		"/D/Projects/Private-Blog/src/skins/default/assets/less/styles.less",
+		"/D/Projects/Private-Blog/src/skins/mainframe/settings.yaml",
+		"/D/Projects/Private-Blog/libs/lava/classes/Scene.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Message.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Textarea.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Toggle.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Setting/Image.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Extension.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Skin/Controller.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Ajax/Handler/GetSkinSettings.php",
+		"/D/Projects/Private-Blog/libs/lava/assets/coffee/lava.coffee/page/skins.coffee",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Button/default.twig",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Button/primary.twig",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Button/none.twig",
+		"/D/Projects/Privacy-Plugin/lava/data/buttons/settings.yaml",
+		"/D/Projects/Private-Blog/src/skins/default/assets/less/_mixins.less",
+		"/D/Projects/Private-Blog/libs/lava/classes/Widget.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Widget/Controller.php",
+		"/D/Projects/Private-Blog/build/classes/Widget/Controller.php",
+		"/D/Projects/Private-Blog/build/classes/Extension/Controller.php",
+		"/D/Projects/Blank-Plugin/src/plugin.php",
+		"/D/Projects/Private-Blog/build/classes/Base.php",
+		"/D/Projects/Privacy-Plugin/plugin.php",
+		"/C/Users/Daniel/Documents/My Web Sites/WordPress Dev/wp-content/plugins/private-blog/assets/css/lava.css",
+		"/C/Users/Daniel/Documents/My Web Sites/WordPress Dev/wp-content/plugins/private-blog/plugin.php",
+		"/D/Projects/Private-Blog/build/classes/Skin/Controller.php",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Scene/default.twig",
+		"/D/Projects/Private-Blog/libs/lava/templates/default/Programme.twig",
+		"/D/Projects/Lofty/src/lofty.coffee",
+		"/D/Projects/mixins.less/mixins.less",
+		"/D/Projects/Private-Blog/libs/lava/assets/coffee/lava.coffee/setting/toggle.coffee",
+		"/D/Projects/Private-Blog/libs/lava/classes/Scene/Settings.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Page.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Page/Controller.php",
+		"/D/Projects/Private-Blog/libs/lava/assets/coffee/lava.coffee/scenes/settings.coffee",
+		"/D/Projects/Private-Blog/libs/lava/classes/Page/Settings.php",
+		"/D/Projects/Private-Blog/build/assets/js/lava.js",
+		"/D/Projects/Private-Blog/libs/lava/assets/coffee/lava.coffee/main.coffee",
+		"/D/tmp/classes/Base.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Base (2).php",
+		"/E/FileHistory/Daniel/DANIEL-PC/Data/D/Projects/Private-Blog/libs/lava/classes/base (2012_09_09 20_50_11 UTC).php",
+		"/D/tmp/classes/Plugin.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/Plugin (2).php",
+		"/D/Projects/Private-Blog/libs/lava/classes/base.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/plugin.php",
+		"/D/Projects/Private-Blog/.gitignore",
+		"/D/Projects/Private-Blog/build/classes/base.php",
+		"/D/Projects/Privacy-Plugin/settings.yaml",
+		"/D/Projects/Privacy-Plugin/admin_pages.yaml",
+		"/D/Projects/Private-Blog/libs/lava/classes/scene/settings/extensions.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/ajax/controller.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/scene/iframe.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/scene/supportforum.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/page/support.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/page/extensions.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/functions.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/page/controller.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/ajax/handler/getskinsettings.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/page/skins.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/setting/text.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/setting/checkbox.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/scene/settings/skins.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/scene/settings/skin.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/page/settings.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/scene/saveForm.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/scene/settings.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/page.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/extension.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/setting/skin.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/setting/controller.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/extension/controller.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/skin/controller.php",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/build_on_save.py",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/lofty.sublime-build",
+		"/D/Projects/Private-Blog/libs/lava/classes/setting.php",
+		"/D/Projects/Privacy-Plugin/readme.txt",
+		"/D/Projects/Private-Blog/libs/lava/classes/setting/radio.php",
+		"/D/Projects/Private-Blog/libs/lava/classes/setting/password.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-*build*",
+			"-build\\*",
+			"-D:\\Projects\\Private-Blog\\build\\*",
+			"-D:\\Projects\\Private-Blog\\build",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"+",
+			"_get_customisations_dir",
+			"_get_customisations_",
+			"_get_customisations_dir",
+			"templates",
+			"choose_skin",
+			"lava-skin-setting-radio",
+			"lava-skin-setting",
+			"n _path",
+			"_get_lava_path",
+			"_get_classes",
+			"_lava_classes",
+			"lavaBindMe",
+			"_class",
+			"_lava_classes",
+			"_get_lava_classes",
+			"_class()",
+			"_plugin_filepath",
+			"_class",
+			"_get_plugin_file_path",
+			"admin_init",
+			"_do_admin_init",
+			"_get_plugin_class_prefix",
+			"bin",
+			"fse",
+			"glob"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lava-setting-skin"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "myscript.js",
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "background.js",
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "styles.css",
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "popup.js",
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.886812632682,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"plugin",
+				"libs/lava/classes/Plugin.php"
+			],
+			[
+				"st",
+				"libs/lava/assets/less/_structure.less"
+			],
+			[
+				"design",
+				"libs/lava/assets/less/_design.less"
+			],
+			[
+				"pl",
+				"src/plugin.php"
+			],
+			[
+				"struct",
+				"libs/lava/assets/less/_structure.less"
+			],
+			[
+				"scene",
+				"Private-Blog/libs/lava/classes/Scene.php"
+			],
+			[
+				"base",
+				"build/classes/Base.php"
+			],
+			[
+				"",
+				"lofty.yaml"
+			],
+			[
+				"page/contr",
+				"libs/lava/classes/page/controller.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,24 @@
+{
+  "name": "My Maths Helper",
+  "version": "1.5",
+  "manifest_version": 2,
+  "description": "Helps you do homework on www.mymaths.co.uk",
+  "browser_action": {
+    "name": "Open MyMaths helper",
+    "default_icon": "favicon.ico"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://www.mymaths.co.uk/*"],
+      "js": ["jquery.js", "myscript.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "permissions": [
+    "tabs",
+    "http://www.mymaths.co.uk/*"
+  ]
+}

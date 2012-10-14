@@ -1,0 +1,32 @@
+.mymaths-answers {
+	display:none;
+}
+
+body.show-mymaths {
+	padding-right: 310px;
+}
+
+.show-mymaths .mymaths-answers {
+	display: block;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	top: 0px;
+	width: 300px;
+	background: white;
+	word-wrap:break-word;
+	padding: 10px;
+	background: whiteSmoke;
+	box-shadow: inset 3px 0px 6px -3px rgba(0,0,0,0.6);
+	overflow: scroll;
+}
+
+.mymaths-message {
+	border-left: gray 4px solid;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.mymaths-answer {
+width:100%;
+}
