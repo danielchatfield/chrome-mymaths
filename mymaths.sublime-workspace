@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"pass",
+				"password"
+			],
+			[
+				"studen",
+				"studentid"
+			],
+			[
 				"func",
 				"func_get_args"
 			],
@@ -256,19 +264,10 @@
 	"buffers":
 	[
 		{
-			"file": "manifest.json",
-			"settings":
-			{
-				"buffer_size": 590,
-				"line_ending": "Windows",
-				"name": "{"
-			}
-		},
-		{
 			"file": "myscript.js",
 			"settings":
 			{
-				"buffer_size": 1036,
+				"buffer_size": 2850,
 				"line_ending": "Windows"
 			}
 		},
@@ -277,22 +276,6 @@
 			"settings":
 			{
 				"buffer_size": 321,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "styles.css",
-			"settings":
-			{
-				"buffer_size": 453,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "popup.js",
-			"settings":
-			{
-				"buffer_size": 159,
 				"line_ending": "Windows"
 			}
 		}
@@ -333,6 +316,9 @@
 	},
 	"file_history":
 	[
+		"/G/Projects/chrome-mymaths/manifest.json",
+		"/G/Projects/chrome-mymaths/jquery.js",
+		"/G/Projects/chrome-mymaths/popup.js",
 		"/D/Projects/mymaths/popup.html",
 		"/D/Projects/red/background.js",
 		"/D/Projects/red/manifest.json",
@@ -457,10 +443,7 @@
 		"/D/Projects/Private-Blog/libs/lava/classes/skin/controller.php",
 		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/build_on_save.py",
 		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/lofty.sublime-build",
-		"/D/Projects/Private-Blog/libs/lava/classes/setting.php",
-		"/D/Projects/Privacy-Plugin/readme.txt",
-		"/D/Projects/Private-Blog/libs/lava/classes/setting/radio.php",
-		"/D/Projects/Private-Blog/libs/lava/classes/setting/password.php"
+		"/D/Projects/Private-Blog/libs/lava/classes/setting.php"
 	],
 	"find":
 	{
@@ -532,62 +515,33 @@
 			[
 				{
 					"buffer": 0,
-					"file": "manifest.json",
+					"file": "myscript.js",
 					"settings":
 					{
-						"buffer_size": 590,
+						"buffer_size": 2850,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								48,
-								48
+								2631,
+								2474
 							]
 						],
 						"settings":
 						{
-							"auto_name": "{",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 924.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "myscript.js",
-					"settings":
-					{
-						"buffer_size": 1036,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								465,
-								465
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "background.js",
 					"settings":
 					{
@@ -598,60 +552,8 @@
 						"selection":
 						[
 							[
-								200,
-								200
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "styles.css",
-					"settings":
-					{
-						"buffer_size": 453,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								361,
-								361
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "popup.js",
-					"settings":
-					{
-						"buffer_size": 159,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								129,
-								135
+								0,
+								0
 							]
 						],
 						"settings":
