@@ -80,6 +80,33 @@ toggleMyMaths = function() {
 			alert( 'Incorrect password: ' + password );
 			return
 		}
+	} else {
+		jQuery('.mymaths-answers .mymaths-inner').html( '' );
+			i= 0;
+			while( i < 5 ) {
+				i++;
+				if(jQuery('embed').length > 0) {
+					var answers = jQuery('embed')[0].GetVariable('q' + i + 'answers');
+				} else {
+				var answers = jQuery('object')[0].GetVariable('q' + i + 'answers');
+				}
+				
+				if( answers == null) {
+					break;
+				}
+				answers = answers.split(',');
+				jQuery('.mymaths-answers .mymaths-inner').append( '<div class="mymaths-question">Question ' + i + '</div>' );
+
+				for( j in answers ) {
+					if( j != 0 ) {
+						if( answers[j] != '' ) {
+							jQuery('.mymaths-answers .mymaths-inner').append( '<input type="text" class="mymaths-answer" value="' + answers[j] + '" />' );
+						}
+					}
+				}
+
+			}
+			jQuery('body').toggleClass('show-mymaths');
 	}
 }
 chrome.extension.onMessage.addListener(
