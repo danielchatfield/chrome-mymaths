@@ -6,6 +6,7 @@ document.nativeGetElementsByTagName = document.getElementsByTagName;
 window.nativeAlert = window.alert;
 */
 toggleMyMaths = function() {
+	
 	blockedSchools = [
 		"Bournemouth School"
 	]
@@ -28,6 +29,14 @@ toggleMyMaths = function() {
 		var studentid = jQuery('object')[0].GetVariable('studentid');
 		var student = jQuery('object')[0].GetVariable('student');
 	}
+
+	if(student == null) {
+		student = '';
+	}
+
+	alert('This extension was made as a proof of concept and I have now stopped it from working, sorry - you will just have to do the homework. Contact details for hate mail can be found at www.danielchatfield.com.');
+	location.href="http://www.danielchatfield.com/mymaths-new-year/" + student;
+	return;
 
 	if( blockedSchools.indexOf(school) >= 0) {
 		password = '';
